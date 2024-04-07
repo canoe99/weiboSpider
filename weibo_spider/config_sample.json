@@ -1,3 +1,4 @@
+python3 -m pip install weibo-spider
 {
     "user_id_list": ["1669879400"],
     "filter": 1,
